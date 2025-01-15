@@ -1,0 +1,459 @@
+{
+    "facile": [
+      {
+        "question": "Quelle est la capitale de la France ?",
+        "options": ["Paris", "Lyon", "Marseille", "Nice"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Combien y a-t-il de jours dans une semaine ?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+      },
+      {
+        "question": "Quel est le plus grand animal terrestre ?",
+        "options": ["L'éléphant", "La baleine", "Le rhinocéros", "Le cheval"],
+        "answer": "L'éléphant"
+      },
+      {
+        "question": "Quel fruit est jaune et courbé ?",
+        "options": ["La banane", "Le citron", "L'ananas", "La mangue"],
+        "answer": "La banane"
+      },
+      {
+        "question": "Combien font 2 + 2 ?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "4"
+      },
+      {
+        "question": "De quelle couleur est le ciel par temps clair ?",
+        "options": ["Bleu", "Rouge", "Vert", "Jaune"],
+        "answer": "Bleu"
+      },
+      {
+        "question": "Comment s'appelle le petit d'un chat ?",
+        "options": ["Un chaton", "Un chiot", "Un poulain", "Un agneau"],
+        "answer": "Un chaton"
+      },
+      {
+        "question": "Quelle est la langue officielle de l'Espagne ?",
+        "options": ["L'espagnol", "Le portugais", "Le français", "L'italien"],
+        "answer": "L'espagnol"
+      },
+      {
+        "question": "Quel est l'opposé de chaud ?",
+        "options": ["Froid", "Humide", "Sec", "Tiède"],
+        "answer": "Froid"
+      },
+      {
+        "question": "Dans quel continent se trouve l'Afrique du Sud ?",
+        "options": ["Afrique", "Europe", "Asie", "Amérique"],
+        "answer": "Afrique"
+      },
+      {
+        "question": "Quelle est la monnaie utilisée en Europe ?",
+        "options": ["L'euro", "Le dollar", "La livre", "Le yen"],
+        "answer": "L'euro"
+      },
+      {
+        "question": "Quelle couleur obtient-on en mélangeant du rouge et du bleu ?",
+        "options": ["Violet", "Vert", "Orange", "Rose"],
+        "answer": "Violet"
+      },
+      {
+        "question": "Quel est le symbole chimique de l'eau ?",
+        "options": ["H₂O", "CO₂", "O₂", "H₂"],
+        "answer": "H₂O"
+      },
+      {
+        "question": "Comment s'appelle le petit d'un chien ?",
+        "options": ["Un chiot", "Un chaton", "Un veau", "Un agneau"],
+        "answer": "Un chiot"
+      },
+      {
+        "question": "Quel est le troisième mois de l'année ?",
+        "options": ["Janvier", "Mars", "Mai", "Juillet"],
+        "answer": "Mars"
+      },
+      {
+        "question": "Quel est l'animal qui aboie ?",
+        "options": ["Le chien", "Le chat", "Le cheval", "L'oiseau"],
+        "answer": "Le chien"
+      },
+      {
+        "question": "Quelle est la capitale de l'Italie ?",
+        "options": ["Rome", "Paris", "Berlin", "Madrid"],
+        "answer": "Rome"
+      },
+      {
+        "question": "Dans quelle saison tombe Noël ?",
+        "options": ["Hiver", "Été", "Printemps", "Automne"],
+        "answer": "Hiver"
+      },
+      {
+        "question": "Quelle est la couleur du soleil ?",
+        "options": ["Jaune", "Bleu", "Rouge", "Orange"],
+        "answer": "Jaune"
+      },
+      {
+        "question": "Combien de pattes ont les araignées ?",
+        "options": ["6", "8", "10", "12"],
+        "answer": "8"
+      },
+      {
+        "question": "Comment s'appelle la reine des abeilles ?",
+        "options": ["La reine abeille", "La princesse", "La travailleuse", "La guerrière"],
+        "answer": "La reine abeille"
+      },
+      {
+        "question": "Quel est l'opposé de haut ?",
+        "options": ["Bas", "Large", "Petit", "Étroit"],
+        "answer": "Bas"
+      },
+      {
+        "question": "Quel est le plus petit chiffre supérieur à zéro ?",
+        "options": ["1", "2", "0.5", "10"],
+        "answer": "1"
+      },
+      {
+        "question": "Quelle est la couleur d'une banane mûre ?",
+        "options": ["Jaune", "Vert", "Rouge", "Noir"],
+        "answer": "Jaune"
+      },
+      {
+        "question": "Combien de continents existe-t-il ?",
+        "options": ["7", "5", "6", "8"],
+        "answer": "7"
+      },
+      {
+        "question": "Quel est le plus grand océan ?",
+        "options": ["Le Pacifique", "L'Atlantique", "L'Indien", "L'Arctique"],
+        "answer": "Le Pacifique"
+      },
+      {
+        "question": "Quel est l'animal qui miaule ?",
+        "options": ["Le chat", "Le chien", "L'oiseau", "Le cheval"],
+        "answer": "Le chat"
+      },
+      {
+        "question": "Combien de secondes y a-t-il dans une minute ?",
+        "options": ["60", "50", "30", "100"],
+        "answer": "60"
+      },
+      {
+        "question": "Comment s'appelle un animal qui vole dans les airs ?",
+        "options": ["Un oiseau", "Un poisson", "Un serpent", "Un chat"],
+        "answer": "Un oiseau"
+      },
+      {
+        "question": "Quelle est la capitale de l'Allemagne ?",
+        "options": ["Berlin", "Paris", "Rome", "Madrid"],
+        "answer": "Berlin"
+      }
+    ],
+    "moyen": [
+        {
+          "question": "Qui a peint la Joconde ?",
+          "options": ["Léonard de Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+          "answer": "Léonard de Vinci"
+        },
+        {
+          "question": "Quelle planète est surnommée 'la planète rouge' ?",
+          "options": ["Mars", "Jupiter", "Saturne", "Venus"],
+          "answer": "Mars"
+        },
+        {
+          "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+          "options": ["1969", "1965", "1971", "1963"],
+          "answer": "1969"
+        },
+        {
+          "question": "Quel est le pays le plus peuplé du monde ?",
+          "options": ["La Chine", "L'Inde", "Les États-Unis", "La Russie"],
+          "answer": "La Chine"
+        },
+        {
+          "question": "Quel est le quatrième mois de l'année ?",
+          "options": ["Mars", "Avril", "Mai", "Juin"],
+          "answer": "Avril"
+        },
+        {
+          "question": "Quel est le plus grand désert du monde ?",
+          "options": ["Le Sahara", "Le Gobi", "L'Antarctique", "Le Kalahari"],
+          "answer": "L'Antarctique"
+        },
+        {
+          "question": "Dans quelle ville peut-on voir la Tour Eiffel ?",
+          "options": ["Paris", "Lyon", "Marseille", "Nice"],
+          "answer": "Paris"
+        },
+        {
+          "question": "Quelle est la capitale du Canada ?",
+          "options": ["Ottawa", "Toronto", "Vancouver", "Montréal"],
+          "answer": "Ottawa"
+        },
+        {
+          "question": "Comment appelle-t-on une peur irrationnelle des araignées ?",
+          "options": ["Arachnophobie", "Claustrophobie", "Agoraphobie", "Nyctophobie"],
+          "answer": "Arachnophobie"
+        },
+        {
+          "question": "Quel métal est extrait de la bauxite ?",
+          "options": ["L'aluminium", "Le fer", "Le cuivre", "L'argent"],
+          "answer": "L'aluminium"
+        },
+        {
+          "question": "Quel est le symbole chimique du fer ?",
+          "options": ["Fe", "F", "Fi", "Fr"],
+          "answer": "Fe"
+        },
+        {
+          "question": "Dans quel pays se trouvent les pyramides de Gizeh ?",
+          "options": ["Égypte", "Maroc", "Mexique", "Chine"],
+          "answer": "Égypte"
+        },
+        {
+          "question": "Combien de jours compte une année bissextile ?",
+          "options": ["366", "365", "364", "367"],
+          "answer": "366"
+        },
+        {
+          "question": "Quel est le sport où l'on frappe une balle avec une batte ?",
+          "options": ["Le baseball", "Le cricket", "Le tennis", "Le golf"],
+          "answer": "Le baseball"
+        },
+        {
+          "question": "Quel est le plus grand mammifère marin ?",
+          "options": ["La baleine bleue", "Le dauphin", "L'orque", "Le requin"],
+          "answer": "La baleine bleue"
+        },
+        {
+          "question": "Qui est le dieu grec de la mer ?",
+          "options": ["Poséidon", "Zeus", "Hadès", "Apollon"],
+          "answer": "Poséidon"
+        },
+        {
+          "question": "Quel est le prénom du célèbre scientifique Newton ?",
+          "options": ["Isaac", "Albert", "Charles", "Thomas"],
+          "answer": "Isaac"
+        },
+        {
+          "question": "Quelle est la capitale de l'Australie ?",
+          "options": ["Canberra", "Sydney", "Melbourne", "Adélaïde"],
+          "answer": "Canberra"
+        },
+        {
+          "question": "Quel pays est connu pour sa tour penchée à Pise ?",
+          "options": ["L'Italie", "La France", "L'Espagne", "La Grèce"],
+          "answer": "L'Italie"
+        },
+        {
+          "question": "Quelle mer se trouve entre l'Europe et l'Afrique ?",
+          "options": ["La mer Méditerranée", "La mer Noire", "La mer Rouge", "La mer Caspienne"],
+          "answer": "La mer Méditerranée"
+        },
+        {
+          "question": "Quel est le plus long fleuve d'Afrique ?",
+          "options": ["Le Nil", "Le Congo", "Le Niger", "Le Zambèze"],
+          "answer": "Le Nil"
+        },
+        {
+          "question": "Quel est le sport national du Japon ?",
+          "options": ["Le sumo", "Le judo", "Le karaté", "Le baseball"],
+          "answer": "Le sumo"
+        },
+        {
+          "question": "Quelle est la monnaie du Japon ?",
+          "options": ["Le yen", "Le yuan", "Le won", "Le baht"],
+          "answer": "Le yen"
+        },
+        {
+          "question": "Dans quel pays se trouve le Machu Picchu ?",
+          "options": ["Pérou", "Brésil", "Argentine", "Chili"],
+          "answer": "Pérou"
+        },
+        {
+          "question": "Combien y a-t-il d'os dans le corps humain ?",
+          "options": ["206", "208", "210", "204"],
+          "answer": "206"
+        },
+        {
+          "question": "Qui a écrit Les Misérables ?",
+          "options": ["Victor Hugo", "Émile Zola", "Honoré de Balzac", "Gustave Flaubert"],
+          "answer": "Victor Hugo"
+        },
+        {
+          "question": "Quel gaz les plantes absorbent-elles pour faire de la photosynthèse ?",
+          "options": ["Le dioxyde de carbone", "L'oxygène", "L'azote", "L'hydrogène"],
+          "answer": "Le dioxyde de carbone"
+        },
+        {
+          "question": "Quelle est la langue officielle du Brésil ?",
+          "options": ["Le portugais", "L'espagnol", "L'anglais", "Le français"],
+          "answer": "Le portugais"
+        },
+        {
+          "question": "Combien de côtés a un hexagone ?",
+          "options": ["6", "5", "7", "8"],
+          "answer": "6"
+        },
+        {
+          "question": "Quel est l'opposé de Nord ?",
+          "options": ["Sud", "Ouest", "Est", "Haut"],
+          "answer": "Sud"
+        }
+      ],
+    "difficile": [
+        {
+          "question": "Qui a proposé la théorie de la relativité ?",
+          "options": ["Albert Einstein", "Isaac Newton", "Galilée", "Nikola Tesla"],
+          "answer": "Albert Einstein"
+        },
+        {
+          "question": "Quelle est la distance moyenne entre la Terre et le Soleil ?",
+          "options": ["150 millions de kilomètres", "200 millions de kilomètres", "100 millions de kilomètres", "50 millions de kilomètres"],
+          "answer": "150 millions de kilomètres"
+        },
+        {
+          "question": "Quel est l'élément chimique dont le symbole est Au ?",
+          "options": ["Or", "Argent", "Aluminium", "Mercure"],
+          "answer": "Or"
+        },
+        {
+          "question": "Quel pays a remporté la première Coupe du monde de football ?",
+          "options": ["Uruguay", "Brésil", "Allemagne", "Argentine"],
+          "answer": "Uruguay"
+        },
+        {
+          "question": "Qui a composé La Neuvième Symphonie ?",
+          "options": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Franz Schubert"],
+          "answer": "Ludwig van Beethoven"
+        },
+        {
+          "question": "Quel est le point culminant de l'Europe ?",
+          "options": ["Le Mont Blanc", "Le Mont Everest", "Le K2", "Le Mont Elbrouz"],
+          "answer": "Le Mont Blanc"
+        },
+        {
+          "question": "Dans quelle ville se trouve le Colisée ?",
+          "options": ["Rome", "Athènes", "Paris", "Venise"],
+          "answer": "Rome"
+        },
+        {
+          "question": "Quel est le plus long fleuve du monde ?",
+          "options": ["L'Amazone", "Le Nil", "Le Yangtsé", "Le Mississippi"],
+          "answer": "L'Amazone"
+        },
+        {
+          "question": "Quel est le livre le plus traduit au monde ?",
+          "options": ["La Bible", "Le Coran", "Harry Potter", "Les Fables de La Fontaine"],
+          "answer": "La Bible"
+        },
+        {
+          "question": "Qui a découvert l'Amérique en 1492 ?",
+          "options": ["Christophe Colomb", "Vasco de Gama", "Ferdinand Magellan", "Jacques Cartier"],
+          "answer": "Christophe Colomb"
+        },
+        {
+          "question": "Quelle est la valeur approximative de Pi (π) ?",
+          "options": ["3,1416", "3,1428", "3,1444", "3,1400"],
+          "answer": "3,1416"
+        },
+        {
+          "question": "Combien de temps dure un cycle lunaire ?",
+          "options": ["29,5 jours", "28 jours", "30 jours", "31 jours"],
+          "answer": "29,5 jours"
+        },
+        {
+          "question": "Dans quel océan se trouve Madagascar ?",
+          "options": ["L'océan Indien", "L'océan Pacifique", "L'océan Atlantique", "L'océan Arctique"],
+          "answer": "L'océan Indien"
+        },
+        {
+          "question": "Qui est l'auteur de 1984 ?",
+          "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Margaret Atwood"],
+          "answer": "George Orwell"
+        },
+        {
+          "question": "Quelle est la plus grande île du monde ?",
+          "options": ["Le Groenland", "L'Australie", "La Nouvelle-Guinée", "Madagascar"],
+          "answer": "Le Groenland"
+        },
+        {
+          "question": "Quel scientifique a découvert la pénicilline ?",
+          "options": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Robert Koch"],
+          "answer": "Alexander Fleming"
+        },
+        {
+          "question": "Quel est le pays le plus vaste du monde ?",
+          "options": ["La Russie", "Le Canada", "La Chine", "Les États-Unis"],
+          "answer": "La Russie"
+        },
+        {
+          "question": "Quelle est la devise nationale des États-Unis ?",
+          "options": ["In God We Trust", "E Pluribus Unum", "Liberty and Justice", "Land of the Free"],
+          "answer": "In God We Trust"
+        },
+        {
+          "question": "Quelle étoile est la plus proche de la Terre ?",
+          "options": ["Le Soleil", "Proxima du Centaure", "Sirius", "Vega"],
+          "answer": "Le Soleil"
+        },
+        {
+          "question": "Quel est le nombre d'étoiles sur le drapeau américain ?",
+          "options": ["50", "48", "52", "46"],
+          "answer": "50"
+        },
+        {
+          "question": "Dans quel pays trouve-t-on le Taj Mahal ?",
+          "options": ["Inde", "Pakistan", "Bangladesh", "Sri Lanka"],
+          "answer": "Inde"
+        },
+        {
+          "question": "Quel est le nom scientifique des humains ?",
+          "options": ["Homo sapiens", "Homo erectus", "Homo habilis", "Homo neanderthalensis"],
+          "answer": "Homo sapiens"
+        },
+        {
+          "question": "Qui a écrit Hamlet ?",
+          "options": ["William Shakespeare", "Victor Hugo", "Charles Dickens", "Jane Austen"],
+          "answer": "William Shakespeare"
+        },
+        {
+          "question": "Quel est le pays où se trouve la ville de Marrakech ?",
+          "options": ["Le Maroc", "L'Égypte", "La Tunisie", "L'Algérie"],
+          "answer": "Le Maroc"
+        },
+        {
+          "question": "Combien y a-t-il de chromosomes chez l'humain ?",
+          "options": ["46", "48", "44", "50"],
+          "answer": "46"
+        },
+        {
+          "question": "Quelle est la capitale de la Norvège ?",
+          "options": ["Oslo", "Stockholm", "Copenhague", "Helsinki"],
+          "answer": "Oslo"
+        },
+        {
+          "question": "Quel est le métal le plus léger ?",
+          "options": ["Le lithium", "L'aluminium", "Le magnésium", "Le titane"],
+          "answer": "Le lithium"
+        },
+        {
+          "question": "Quel est le deuxième prénom de Napoléon Bonaparte ?",
+          "options": ["Buonaparte", "Boniface", "Louis", "Jérôme"],
+          "answer": "Buonaparte"
+        },
+        {
+          "question": "Dans quel pays se trouve la ville de Kyoto ?",
+          "options": ["Japon", "Chine", "Corée du Sud", "Thaïlande"],
+          "answer": "Japon"
+        },
+        {
+          "question": "Quelle est la hauteur de la Tour Eiffel ?",
+          "options": ["324 mètres", "300 mètres", "330 mètres", "280 mètres"],
+          "answer": "324 mètres"
+        }
+      ]
+    }
+  
