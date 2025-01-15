@@ -1,96 +1,61 @@
-CultureQuiz
+🎉 CultureQuiz : Le Quiz Ludique et Enrichissant 📚
 
-Description
+🌟 Description
 
-CultureQuiz est une application interactive de quiz en français conçue pour tester vos connaissances générales tout en s'amusant. Le projet est basé sur une interface graphique conviviale, construite avec Tkinter, et propose des questions classées par niveaux de difficulté : facile, moyen et difficile.
+CultureQuiz est une application interactive de quiz en français qui teste vos connaissances générales tout en vous amusant. Avec trois niveaux de difficulté et une interface intuitive, ce projet rend l'apprentissage accessible et plaisant. 💡
 
-Fonctionnalités
+✨ Fonctionnalités
 
-Interface utilisateur simple et intuitive : Navigation facile pour sélectionner les niveaux et répondre aux questions.
+🖼️ Interface Graphique Attrayante : Conçue avec Tkinter pour une expérience fluide et engageante.
+📚 Questions Variées : Explorez des thèmes différents à travers trois niveaux de difficulté.
+🎲 Jeu Dynamique : Questions sélectionnées aléatoirement pour chaque partie.
+📈 Suivi des Performances : Affichage du score à la fin de chaque quiz.
 
-Trois niveaux de difficulté : Adapté pour tous les âges et niveaux de connaissances.
+🚀 Installation
 
-Score en temps réel : Affichage du score pour suivre votre progression.
-
-Questions aléatoires : Une nouvelle sélection de questions à chaque partie.
-
-Prérequis
-
-Python 3.7 ou une version ultérieure
-
-Bibliothèque Tkinter (intégrée avec Python standard)
-
-Installation
-
-Clonez ce dépôt sur votre machine locale :
+Clonez ce dépôt ou téléchargez les fichiers source.
 
 git clone https://github.com/Deniz09OK/CultureQuiz
 
-Placez les fichiers suivants dans le même répertoire :
+Assurez-vous que Python 3.x est installé sur votre système.
 
-quizz.py : Le script principal de l'application.
+Installez Tkinter si nécessaire :
 
-questions.json : Le fichier contenant les questions et réponses.
+pip install tk
 
-Assurez-vous d'avoir Python installé sur votre système.
+🎮 Comment Jouer ?
 
-Utilisation
-
-Exécutez le fichier principal :
+Lancez le fichier principal :
 
 python quizz.py
 
-Une fenêtre graphique s'ouvrira. Choisissez un niveau de difficulté pour commencer.
+Une fenêtre s’ouvrira. Choisissez votre niveau de difficulté (facile, moyen, difficile).
 
-Répondez aux questions en sélectionnant l'option correcte.
+Répondez aux questions en cliquant sur l’option correcte.
 
-Consultez votre score à la fin du quiz et rejouez si vous le souhaitez.
+Consultez votre score final et rejouez pour améliorer vos résultats !
 
-Structure des fichiers
+🛠️ Structure du Code
 
-quizz.py : Contient le code de l'application.
+QuizApp : Classe principale qui gère l’ensemble du jeu.
 
-questions.json : Base de données des questions organisées par niveau (« facile », « moyen », « difficile »).
+show_welcome_screen : Affiche l’écran d’accueil et les options de niveaux.
 
-Exemple de contenu du fichier questions.json
+start_quiz : Initialise une partie en chargeant des questions.
 
-{
-    "facile": [
-        {
-            "question": "Quelle est la capitale de la France ?",
-            "options": ["Paris", "Lyon", "Marseille", "Nice"],
-            "answer": "Paris"
-        }
-    ]
-}
+check_answer : Valide les réponses et met à jour le score.
 
-Contribution
+show_final_score : Affiche le score final à la fin du jeu.
 
-Les contributions sont les bienvenues ! Pour contribuer :
+🌟 Améliorations Futures
 
-Forkez le projet.
+Voici quelques idées pour enrichir CultureQuiz :
 
-Créez une nouvelle branche :
+🏅 Ajout d’un système de suivi des scores sur plusieurs parties.
+🌐 Mode multijoueur en ligne pour jouer avec des amis à distance.
+🎨 Amélioration de l’interface graphique avec des thèmes personnalisables.
 
-git checkout -b feature/nom_de_la_fonctionnalite
+👨‍💻 Auteur
 
-Faites vos modifications et commitez-les :
-
-git commit -m "Description des modifications"
-
-Poussez vos modifications :
-
-git push origin feature/nom_de_la_fonctionnalite
-
-Ouvrez une Pull Request.
-
-Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
-
-Auteur
-
-Projet réalisé par [Votre Nom/Equipe].
-
-Amusez-vous bien avec CultureQuiz !
+Ce projet CultureQuiz a été conçu pour rendre l’apprentissage ludique et engageant. N’hésitez pas à proposer vos suggestions ou à contribuer pour l’améliorer davantage. 🌟
 
