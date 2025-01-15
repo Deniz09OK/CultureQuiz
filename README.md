@@ -59,4 +59,4 @@ Voici quelques idées pour enrichir CultureQuiz :
 
 Ce projet CultureQuiz a été conçu pour rendre l’apprentissage ludique et engageant. N’hésitez pas à proposer vos suggestions ou à contribuer pour l’améliorer davantage. 🌟
 
-![Imades du Jeu (Menu) ](CultureQuiz/Images et videos/Image page debut.png)
+![Image du Jeu (Menu)](Images%20et%20videos/Image%20page%20debut.png)
